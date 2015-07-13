@@ -1,0 +1,8 @@
+Plugin:
+---
+
+Standalone:
+- Save As
+- Settings Editor
+- Backup all repository with files
+- Backups manager

@@ -54,5 +54,37 @@
     "Comment": "new version",
     "NameInRepo": "ADF3E2DE7212A2BAB4CA82A0D9CCDB33",
     "FullPathInRepo": "D:\\Projects\\C#\\SimpleLocalHistory\\SimpleLocalHistory\\bin\\Debug\\repo\\ADF3E2DE7212A2BAB4CA82A0D9CCDB33"
+  },
+  {
+    "Name": "new  2.txt",
+    "FullPath": "C:\\new  2.txt",
+    "Version": 0,
+    "Comment": "original",
+    "NameInRepo": "F1E6797D9B4CE283796498A3B34F3D64.txt",
+    "FullPathInRepo": "D:\\Projects\\C#\\SimpleLocalHistory\\SimpleLocalHistory\\bin\\Debug\\repo\\F1E6797D9B4CE283796498A3B34F3D64.txt"
+  },
+  {
+    "Name": "new  2.txt",
+    "FullPath": "C:\\new  2.txt",
+    "Version": 1,
+    "Comment": "sss",
+    "NameInRepo": "C873E4F644AFDB985DAFE33F5FB5318F.txt",
+    "FullPathInRepo": "D:\\Projects\\C#\\SimpleLocalHistory\\SimpleLocalHistory\\bin\\Debug\\repo\\C873E4F644AFDB985DAFE33F5FB5318F.txt"
+  },
+  {
+    "Name": "Web.config",
+    "FullPath": "D:\\inetpub\\wwwRoot\\sc660rev130214br\\Website\\Web.config",
+    "Version": 0,
+    "Comment": "original",
+    "NameInRepo": "631F82686144035CD20D6C077ED9203A.config",
+    "FullPathInRepo": "D:\\Projects\\C#\\SimpleLocalHistory\\SimpleLocalHistory\\bin\\Debug\\repo\\631F82686144035CD20D6C077ED9203A.config"
+  },
+  {
+    "Name": "Web.config",
+    "FullPath": "D:\\inetpub\\wwwRoot\\sc660rev130214br\\Website\\Web.config",
+    "Version": 1,
+    "Comment": "test",
+    "NameInRepo": "98E0F1D78105FEEBE0DC17F4A85587D2.config",
+    "FullPathInRepo": "D:\\Projects\\C#\\SimpleLocalHistory\\SimpleLocalHistory\\bin\\Debug\\repo\\98E0F1D78105FEEBE0DC17F4A85587D2.config"
   }
 ]

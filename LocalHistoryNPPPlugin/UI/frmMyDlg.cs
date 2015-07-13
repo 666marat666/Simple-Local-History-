@@ -19,6 +19,34 @@ namespace LocalHistoryNPPPlugin
         public frmMyDlg()
         {
             InitializeComponent();
+            
+            
+            using (ChannelFactory<IService> cf = new ChannelFactory<IService>(new WebHttpBinding(), SettingsProvider.GetStrSettingByName("ServiceUri", @"http://localhost:8181")))
+            {
+                cf.Endpoint.Behaviors.Add(new WebHttpBehavior());
+                IService channel = cf.CreateChannel();
+                if (
+                    JsonConvert.DeserializeObject<List<FileResult>>(
+                    channel.GetAllVersionsOfFile(PluginBase.GetCurrentPath())
+                    ) == null ||
+                    JsonConvert.DeserializeObject<List<FileResult>>(
+                    channel.GetAllVersionsOfFile(PluginBase.GetCurrentPath())
+                    ).Count == 0
+                    )
+                {
+                    ServiceResult result = (ServiceResult)channel.AddFile(PluginBase.GetCurrentPath(), "original");
+
+                    if (result.Status == ServiceStatus.Error)
+                        MessageBox.Show(result.Message);
+                }
+            }
+
+            RefreshDataInDataGrid(dataGridView1);
+        }
+
+        protected override void OnShown(EventArgs e)
+        {
+            base.OnShown(e);            
         }
 
         private void button1_Click(object sender, EventArgs e)

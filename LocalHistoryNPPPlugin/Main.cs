@@ -62,7 +62,7 @@ namespace LocalHistoryNPPPlugin
         #region " Menu functions "
         internal static void myMenuFunction()
         {
-            MessageBox.Show("Hello N++!");
+            MessageBox.Show("Local History Plugin v1.0");
         }
         internal static void myDockableDialog()
         {
@@ -85,7 +85,7 @@ namespace LocalHistoryNPPPlugin
 
                 NppTbData _nppTbData = new NppTbData();
                 _nppTbData.hClient = frmMyDlg.Handle;
-                _nppTbData.pszName = "My dockable dialog";
+                _nppTbData.pszName = "Local history";
                 _nppTbData.dlgID = idMyDlg;
                 _nppTbData.uMask = NppTbMsg.DWS_DF_CONT_RIGHT | NppTbMsg.DWS_ICONTAB | NppTbMsg.DWS_ICONBAR;
                 _nppTbData.hIconTab = (uint)tbIcon.Handle;
