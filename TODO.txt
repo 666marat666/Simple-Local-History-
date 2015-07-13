@@ -6,3 +6,4 @@ Standalone:
 - Settings Editor
 - Backup all repository with files
 - Backups manager
+- Fast files moving
