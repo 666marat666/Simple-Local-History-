@@ -1,4 +1,0 @@
-{
-  "PathToDiffEditor": "D:\\Program Files (x86)\\WinMerge\\WinMergeU.exe",
-  "repo": "[{\"Name\":\"AllEnvironments.config\",\"FullPath\":\"D:\\\\inetpub\\\\wwwRoot\\\\sc80rev150427CM\\\\Website\\\\App_Config\\\\Include\\\\z.LastOverrides\\\\AllEnvironments.config\",\"Version\":0,\"Comment\":\"new version\",\"NameInRepo\":\"02D15938F8777E85526F928121796032.config\",\"FullPathInRepo\":\"D:\\\\Projects\\\\C#\\\\SimpleLocalHistory\\\\SimpleLocalHistory\\\\bin\\\\Debug\\\\repo\\\\02D15938F8777E85526F928121796032.config\"},{\"Name\":\"AllEnvironments.config\",\"FullPath\":\"D:\\\\inetpub\\\\wwwRoot\\\\sc80rev150427CM\\\\Website\\\\App_Config\\\\Include\\\\z.LastOverrides\\\\AllEnvironments.config\",\"Version\":1,\"Comment\":\"new version\",\"NameInRepo\":\"F22E10D5F6E0E1452C294A3C25C1ABA3.config\",\"FullPathInRepo\":\"D:\\\\Projects\\\\C#\\\\SimpleLocalHistory\\\\SimpleLocalHistory\\\\bin\\\\Debug\\\\repo\\\\F22E10D5F6E0E1452C294A3C25C1ABA3.config\"}]"
-}
