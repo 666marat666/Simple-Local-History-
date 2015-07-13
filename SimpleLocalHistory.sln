@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLocalHistory", "SimpleLocalHistory\SimpleLocalHistory.csproj", "{2C747EC1-FE71-4DD4-B1C4-38EF4CEB0487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalHistoryNPPPlugin", "LocalHistoryNPPPlugin\LocalHistoryNPPPlugin.csproj", "{B5D13AC0-EEC5-4B97-A382-8FF52C57AC82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C747EC1-FE71-4DD4-B1C4-38EF4CEB0487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C747EC1-FE71-4DD4-B1C4-38EF4CEB0487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C747EC1-FE71-4DD4-B1C4-38EF4CEB0487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C747EC1-FE71-4DD4-B1C4-38EF4CEB0487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D13AC0-EEC5-4B97-A382-8FF52C57AC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D13AC0-EEC5-4B97-A382-8FF52C57AC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D13AC0-EEC5-4B97-A382-8FF52C57AC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D13AC0-EEC5-4B97-A382-8FF52C57AC82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

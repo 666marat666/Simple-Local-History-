@@ -1,0 +1,11 @@
+D:\Projects\C#\SimpleLocalHistory\LocalHistoryPlugin\bin\Debug\LocalHistoryPlugin.dll
+D:\Projects\C#\SimpleLocalHistory\LocalHistoryPlugin\bin\Debug\LocalHistoryPlugin.pdb
+D:\Projects\C#\SimpleLocalHistory\LocalHistoryPlugin\obj\Debug\LocalHistoryPlugin.frmMyDlg.resources
+D:\Projects\C#\SimpleLocalHistory\LocalHistoryPlugin\obj\Debug\LocalHistoryPlugin.Properties.Resources.resources
+D:\Projects\C#\SimpleLocalHistory\LocalHistoryPlugin\obj\Debug\LocalHistoryPlugin.csproj.GenerateResource.Cache
+D:\Projects\C#\SimpleLocalHistory\LocalHistoryPlugin\obj\Debug\LocalHistoryPlugin.dll
+D:\Projects\C#\SimpleLocalHistory\LocalHistoryPlugin\obj\Debug\LocalHistoryPlugin.pdb
+D:\Program Files (x86)\Notepad++\plugins\LocalHistoryPlugin.dll
+D:\Program Files (x86)\Notepad++\plugins\LocalHistoryPlugin.pdb
+D:\Projects\C#\SimpleLocalHistory\LocalHistoryPlugin\obj\Debug\LocalHistoryPlugin.csprojResolveAssemblyReference.cache
+D:\Program Files (x86)\Notepad++\plugins\LocalHistoryPlugin.dll.config

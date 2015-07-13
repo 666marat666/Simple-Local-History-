@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "AllEnvironments.config",
+    "FullPath": "D:\\inetpub\\wwwRoot\\sc80rev150427CM\\Website\\App_Config\\Include\\z.LastOverrides\\AllEnvironments.config",
+    "Version": 0,
+    "Comment": "original file",
+    "NameInRepo": "02D15938F8777E85526F928121796032.config",
+    "FullPathInRepo": "D:\\Projects\\C#\\SimpleLocalHistory\\SimpleLocalHistory\\bin\\Debug\\repo\\02D15938F8777E85526F928121796032.config"
+  },
+  {
+    "Name": "AllEnvironments.config",
+    "FullPath": "D:\\inetpub\\wwwRoot\\sc80rev150427CM\\Website\\App_Config\\Include\\z.LastOverrides\\AllEnvironments.config",
+    "Version": 1,
+    "Comment": "new version",
+    "NameInRepo": "F22E10D5F6E0E1452C294A3C25C1ABA3.config",
+    "FullPathInRepo": "D:\\Projects\\C#\\SimpleLocalHistory\\SimpleLocalHistory\\bin\\Debug\\repo\\F22E10D5F6E0E1452C294A3C25C1ABA3.config"
+  },
+  {
+    "Name": "test.txt",
+    "FullPath": "C:\\test.txt",
+    "Version": 2,
+    "Comment": "www",
+    "NameInRepo": "3879172E9B0E13AB8D8A04A7F7CC12B0.txt",
+    "FullPathInRepo": "D:\\Projects\\C#\\SimpleLocalHistory\\SimpleLocalHistory\\bin\\Debug\\repo\\3879172E9B0E13AB8D8A04A7F7CC12B0.txt"
+  },
+  {
+    "Name": "settings.info",
+    "FullPath": "D:\\Projects\\C#\\SimpleLocalHistory\\SimpleLocalHistory\\bin\\Debug\\settings.info",
+    "Version": 0,
+    "Comment": "asdasd",
+    "NameInRepo": "6484D24EB7CEB0E0123158AD4F04B64C.info",
+    "FullPathInRepo": "D:\\Projects\\C#\\SimpleLocalHistory\\SimpleLocalHistory\\bin\\Debug\\repo\\6484D24EB7CEB0E0123158AD4F04B64C.info"
+  }
+]

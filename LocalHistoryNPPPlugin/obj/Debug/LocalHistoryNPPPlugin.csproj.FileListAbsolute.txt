@@ -1,0 +1,8 @@
+D:\Program Files (x86)\Notepad++\plugins\LocalHistoryNPPPlugin.dll
+D:\Program Files (x86)\Notepad++\plugins\LocalHistoryNPPPlugin.pdb
+D:\Projects\C#\SimpleLocalHistory\LocalHistoryNPPPlugin\obj\Debug\LocalHistoryNPPPlugin.csprojResolveAssemblyReference.cache
+D:\Projects\C#\SimpleLocalHistory\LocalHistoryNPPPlugin\obj\Debug\LocalHistoryNPPPlugin.frmMyDlg.resources
+D:\Projects\C#\SimpleLocalHistory\LocalHistoryNPPPlugin\obj\Debug\LocalHistoryNPPPlugin.Properties.Resources.resources
+D:\Projects\C#\SimpleLocalHistory\LocalHistoryNPPPlugin\obj\Debug\LocalHistoryNPPPlugin.csproj.GenerateResource.Cache
+D:\Projects\C#\SimpleLocalHistory\LocalHistoryNPPPlugin\obj\Debug\LocalHistoryNPPPlugin.dll
+D:\Projects\C#\SimpleLocalHistory\LocalHistoryNPPPlugin\obj\Debug\LocalHistoryNPPPlugin.pdb

@@ -1,0 +1,11 @@
+D:\Projects\C#\SimpleLocalHistory\SimpleLocalHistory\bin\Debug\SimpleLocalHistory.exe
+D:\Projects\C#\SimpleLocalHistory\SimpleLocalHistory\bin\Debug\SimpleLocalHistory.pdb
+D:\Projects\C#\SimpleLocalHistory\SimpleLocalHistory\obj\Debug\SimpleLocalHistory.Properties.Resources.resources
+D:\Projects\C#\SimpleLocalHistory\SimpleLocalHistory\obj\Debug\SimpleLocalHistory.csproj.GenerateResource.Cache
+D:\Projects\C#\SimpleLocalHistory\SimpleLocalHistory\obj\Debug\SimpleLocalHistory.exe
+D:\Projects\C#\SimpleLocalHistory\SimpleLocalHistory\obj\Debug\SimpleLocalHistory.pdb
+D:\Projects\C#\SimpleLocalHistory\SimpleLocalHistory\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\C#\SimpleLocalHistory\SimpleLocalHistory\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\C#\SimpleLocalHistory\SimpleLocalHistory\obj\Debug\SimpleLocalHistory.UI.AddFileForm.resources
+D:\Projects\C#\SimpleLocalHistory\SimpleLocalHistory\obj\Debug\SimpleLocalHistory.UI.MainForm.resources
+D:\Projects\C#\SimpleLocalHistory\SimpleLocalHistory\obj\Debug\SimpleLocalHistory.csprojResolveAssemblyReference.cache
