@@ -7,3 +7,4 @@ Standalone:
 - Backup all repository with files
 - Backups manager
 - Fast files moving
+http://www.codeproject.com/Tips/777322/A-Faster-File-Copy
